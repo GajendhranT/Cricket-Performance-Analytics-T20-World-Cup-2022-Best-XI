@@ -1,5 +1,4 @@
-**Project Title:
-Cricket Performance Analytics – T20 World Cup 2022 Best XI**
+**Cricket Performance Analytics – T20 World Cup 2022 Best XI**
 
 **Project Overview:**
 
